@@ -2,26 +2,31 @@
   {
     "id_product": 0,
     "product_name": "Процессор_test",
-    "price": 100
+    "price": 100,
+    "name_file: "processor"
   },
   {
     "id_product": 1,
     "product_name": "Монитор_test",
-    "price": 120
+    "price": 120,
+    "name_file: "monitor"
   },
   {
     "id_product": 2,
     "product_name": "Ноутбук_test",
-    "price": 1000
+    "price": 1000,
+    "name_file: "notebook"
   },
   {
     "id_product": 3,
     "product_name": "Мышка_test",
-    "price": 15
+    "price": 15,
+    "name_file: "mouser"    
   },
   {
     "id_product": 4,
     "product_name": "Клавиатура_test",
-    "price": 18
+    "price": 18,
+    "name_file: "keyboard"
   }
 ]
