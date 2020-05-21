@@ -3,32 +3,32 @@
   "countGoods": 5,
   "contents": [
     {
-      "id_product": 0,
-      "product_name": "Процессор_test",
+      "id_product": "processor",
+      "product_name": "Процессор",
       "price": 100,
       "quantity": 1
     },
     {
-      "id_product": 1,
-      "product_name": "Монитор_test",
+      "id_product": "monitor",
+      "product_name": "Монитор",
       "price": 120,
       "quantity": 1
     },
     {
-      "id_product": 2,
-      "product_name": "Ноутбук_test",
+      "id_product": "notebook",
+      "product_name": "Ноутбук",
       "price": 1000,
       "quantity": 1
     },
     {
-      "id_product": 3,
-      "product_name": "Мышка_test",
+      "id_product": "mouse",
+      "product_name": "Мышка",
       "price": 15,
       "quantity": 1
     },
     {
-      "id_product": 4,
-      "product_name": "Клавиатура_test",
+      "id_product": "keyboard",
+      "product_name": "Клавиатура",
       "price": 18,
       "quantity": 1
     }
